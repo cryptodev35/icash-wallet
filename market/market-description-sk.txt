@@ -12,10 +12,10 @@ FUNKCIE:
 • Widget s celkovým zostatkom.
 
 Viac informácií o Dashe
-http://darkcoin.io
+http://icash.io
 
 Ak chcete prispieť do projektu Dash Wallet nájdete ho na adrese
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

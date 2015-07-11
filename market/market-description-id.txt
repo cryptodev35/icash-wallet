@@ -11,10 +11,10 @@ FITUR:
 • Widget Apl untuk saldo Dash.
 
 Anda dapat mengetahui lebih mengenai Dash di
-http://darkcoin.io
+http://icash.io
 
 Jika Anda ingin berkontribusi kepada Dash Wallet, proyeknya berada di
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

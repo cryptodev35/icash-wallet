@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="hashengineering.darkcoin.wallet"
+	package="hashengineering.icash.wallet"
 	android:installLocation="internalOnly"
 	android:versionCode="40020"
 	android:versionName="4.33.11.2.23" >
@@ -93,7 +93,7 @@
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.intent.action.VIEW" />
 
-				<data android:scheme="darkcoin" />
+				<data android:scheme="icash" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 				<category android:name="android.intent.category.BROWSABLE" />
@@ -101,21 +101,21 @@
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:scheme="darkcoin" />
+				<data android:scheme="icash" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.intent.action.VIEW" />
 
-				<data android:mimeType="application/darkcoin-paymentrequest" />
+				<data android:mimeType="application/icash-paymentrequest" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/darkcoin-paymentrequest" />
+				<data android:mimeType="application/icash-paymentrequest" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
@@ -164,7 +164,7 @@
 
 				<category android:name="android.intent.category.DEFAULT" />
 
-				<data android:mimeType="application/x-darkcoin-wallet-backup" />
+				<data android:mimeType="application/x-icash-wallet-backup" />
 			</intent-filter>
 		</activity>
 		<activity
@@ -184,11 +184,11 @@
 
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="hashengineering.darkcoin.wallet.address_book"
+			android:authorities="hashengineering.icash.wallet.address_book"
 			android:exported="false" />
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
-			android:authorities="hashengineering.darkcoin.wallet.exchange_rates"
+			android:authorities="hashengineering.icash.wallet.exchange_rates"
 			android:exported="false" />
 		<provider
 			android:name="de.schildbach.wallet.FileAttachmentProvider"

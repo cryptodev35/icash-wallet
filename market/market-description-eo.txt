@@ -12,10 +12,10 @@ TRAJTOJ:
 • Aplikaĵa fenestraĵo por Bitmona saldo.
 
 Vi povas trovi pli pri Bitmono ĉe
-http://darkcoin.io
+http://icash.io
 
 Se vi volas kontribui al Dash Wallet, la projekto lokas ĉe
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 Licenco: GPLv3
 Uzu je via propra risko!

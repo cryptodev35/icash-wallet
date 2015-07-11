@@ -20,7 +20,7 @@ Dash Wallet это <b>бесплатное приложение</b> с <b>отк
 https://www.gnu.org/licenses/gpl-3.0.ru.html
 
 Исходный код приложения доступен на GitHub:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 Все переводы сделаны через Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/

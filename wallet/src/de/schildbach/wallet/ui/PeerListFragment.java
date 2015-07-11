@@ -53,7 +53,7 @@ import android.widget.TextView;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.icash.wallet.R;
 
 /**
  * @author Andreas Schildbach

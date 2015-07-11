@@ -11,10 +11,10 @@ TÍNH NĂNG:
 • Tiện ích dành riêng cho Dash.
 
 Bạn có thể tìm hiểu thêm về Dash tại
-http://darkcoin.io
+http://icash.io
 
 Nếu bạn có ý tưởng đóng góp cho Dash Wallet, hãy truy cập vào trang web
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 Giấy phép: GPLv3
 Sử dụng với sự cẩn trọng của riêng bạn!

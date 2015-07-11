@@ -20,7 +20,7 @@ package de.schildbach.wallet;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.icash.wallet.R;
 import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.MainNetParams;
@@ -141,8 +141,8 @@ public final class Constants
 
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://darkcoin.io/";
-    public static final String CREDITS_FORUM_URL = "https://darkcointalk.org/";
+    public static final String CREDITS_WEBSITE_URL = "http://icash.io/";
+    public static final String CREDITS_FORUM_URL = "https://icashtalk.org/";
 
 	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(2).optionalDecimals();
 

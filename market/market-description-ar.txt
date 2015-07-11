@@ -12,10 +12,10 @@
 • عرض رصيدك الحالي من البيتكوين باستخدام التطبيقات المصغرة App Widget.
 
 يمكنك الحصول على معلومات أكثر عن البيتكوين في الموقع التالي
-http://darkcoin.io
+http://icash.io
 
 إذا أردت المساهمة في مشروع محفظة البيتكوين Dash Wallet، قم بزيارة
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/HashEngineering/icash-wallet
 
 الرخصة رقم GPLv3
 استخدم البرنامج على مسؤوليتك الخاصة!
